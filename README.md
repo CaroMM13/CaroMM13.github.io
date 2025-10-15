@@ -56,10 +56,10 @@ The dataset includes information about applicants such as:
 
 ## 📊 Results
 - **Best Model:** XGBoost  
-- **Accuracy:** 0.89  
-- **AUC:** 0.92  
-- **Precision (Approved class):** 0.87  
-- **Recall (Approved class):** 0.84  
+- **Accuracy:** 0.99  
+- **AUC:** 0.99 
+- **Precision (Approved class):** 0.94 
+- **Recall (Approved class):** 0.97  
 
 ---
 
