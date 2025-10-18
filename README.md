@@ -1,23 +1,23 @@
 # CaroMM13.github.io
-👋 Hi, I'm Carolyn Martínez  
+ Hi, I'm Carolyn Martínez  
 
-🎯 **Data Scientist Enthusiast!!**  
-📍 Based in Santo Domingo, Dominican Republic  
+ **Data Scientist Enthusiast!!**  
+ Based in Santo Domingo, Dominican Republic  
 
 I’m passionate about using **data and analytics** to drive strategic business decisions and improve customer experiences.  
 Currently pursuing my **Master’s in Data Science** while working on data-driven initiatives in the **banking industry**.  
 
-## 🧠 Featured Projects 
+##  Featured Projects 
 
-# 💳 Credit Card Approval Prediction
+#  Credit Card Approval Prediction
 
-## 📘 Project Overview
+##  Project Overview
 This project aims to build a **machine learning model** to predict whether a credit card application should be **approved or denied**, based on applicants’ demographic and financial characteristics.  
 It was developed as part of a **Data Science Master's project** focused on credit risk evaluation.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Develop a **classification model** to evaluate credit card approval risk.
 - Apply **data preprocessing**, **feature engineering**, and **balancing techniques**.
 - Compare models such as **Random Forest** and **XGBoost**.
@@ -25,7 +25,7 @@ It was developed as part of a **Data Science Master's project** focused on credi
 
 ---
 
-## 🧩 Dataset
+##  Dataset
 The dataset includes information about applicants such as:
 - Income and employment stability  
 - Marital status and dependents  
@@ -36,7 +36,7 @@ The dataset includes information about applicants such as:
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 - Cleaned and transformed categorical and numerical variables.
 - Handled missing values and outliers.
 - Applied **SMOTE** to balance the target variable.
@@ -44,7 +44,7 @@ The dataset includes information about applicants such as:
 
 ---
 
-## 🤖 Models and Techniques
+##  Models and Techniques
 | Technique | Description |
 |------------|-------------|
 | **Random Forest** | Used as baseline model for comparison |
@@ -54,34 +54,16 @@ The dataset includes information about applicants such as:
 
 ---
 
-## 📊 Results
-- **Best Model:** XGBoost  
-- **Accuracy:** 0.99  
-- **AUC:** 0.99 
-- **Precision (Approved class):** 0.94 
-- **Recall (Approved class):** 0.97  
-
----
-
-## 📈 Key Insights
+##  Key Insights
 - Applicants with stable income and no previous defaults have the highest approval probability.  
 - Credit amount and previous delinquencies are the strongest predictors.  
 - Adjusting decision thresholds can reduce false approvals by ~10%.
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - **Python** (Pandas, NumPy, Scikit-learn, XGBoost, Imbalanced-learn)
 - **Jupyter Notebook**
-- **Power BI** (visualizations and dashboards)
-
----
-
-## 📚 Learnings
-This project improved my understanding of:
-- Applying ML for **credit risk assessment**
-- Handling **imbalanced data**
-- Translating **technical results into business strategy**
 
 ---
 
