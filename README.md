@@ -7,6 +7,8 @@
 I’m passionate about using **data and analytics** to drive strategic business decisions and improve customer experiences.  
 Currently pursuing my **Master’s in Data Science** while working on data-driven initiatives in the **banking industry**.  
 
+[notebook here](./Credit_Card_Approval.html)
+
 ##  Featured Projects 
 
 #  Credit Card Approval Prediction
