@@ -10,7 +10,6 @@ Currently pursuing my **Master’s in Data Science** while working on data-drive
 #  Credit Card Approval Prediction
 
 [View on GitHub](https://github.com/CaroMM13/CaroMM13.github.io/blob/main/Credit_Card_Approval%20(3).ipynb)
-https://github.com/CaroMM13/CaroMM13.github.io/blob/main/Credit_Card_Approval%20(3).ipynb
 
 ##  Project Overview
 This project aims to build a **machine learning model** to predict whether a credit card application should be **approved or denied**, based on applicants’ demographic and financial characteristics.  
