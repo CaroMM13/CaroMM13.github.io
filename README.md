@@ -7,7 +7,7 @@
 I’m passionate about using **data and analytics** to drive strategic business decisions and improve customer experiences.  
 Currently pursuing my **Master’s in Data Science** while working on data-driven initiatives in the **banking industry**.  
 
-[View notebook here](https://github.com/CaroMM13/CaroMM13.github.io/blob/main/credit_card_approval(3).ipynb)
+[View notebook here](https://github.com/CaroMM13/CaroMM13.github.io/blob/main/Credit_Card_Approval (3).ipynb)
 
 ##  Featured Projects 
 
